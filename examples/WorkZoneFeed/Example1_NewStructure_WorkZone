@@ -34,7 +34,6 @@
          "properties": {
             "core_details": {
                "data_source_id": "2",
-               "event_type": "work-zone",
                "related_road_events": [
                   {
                      "type": "work-zone-project",
