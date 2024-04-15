@@ -24,6 +24,7 @@
       "id": "85912735-7a36-45f5-b644-41b0203ae400",
       "type": "Feature",
       "properties": {
+        "project_id": "Project 2a",
         "core_details": {
           "data_source_id": "1",
           "event_type": "work-zone",
