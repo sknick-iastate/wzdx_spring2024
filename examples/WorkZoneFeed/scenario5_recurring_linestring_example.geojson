@@ -25,6 +25,7 @@
       "type": "Feature",
       "properties": {
         "core_details": {
+          "project_id": "Project 5a",
           "data_source_id": "4440eb6d-96ee-4d6e-97ea-bbe12d2caf77",
           "event_type": "work-zone",
           "related_road_events": [
@@ -133,6 +134,7 @@
       "type": "Feature",
       "properties": {
         "core_details": {
+          "project_id": "Project 5a",
           "data_source_id": "4440eb6d-96ee-4d6e-97ea-bbe12d2caf77",
           "event_type": "work-zone",
           "related_road_events": [
@@ -226,6 +228,7 @@
       "type": "Feature",
       "properties": {
         "core_details": {
+          "project_id": "Project 5a",
           "data_source_id": "4440eb6d-96ee-4d6e-97ea-bbe12d2caf77",
           "event_type": "work-zone",
           "related_road_events": [
@@ -319,6 +322,7 @@
       "type": "Feature",
       "properties": {
         "core_details": {
+          "project_id": "Project 5a",
           "data_source_id": "4440eb6d-96ee-4d6e-97ea-bbe12d2caf77",
           "event_type": "work-zone",
           "related_road_events": [
