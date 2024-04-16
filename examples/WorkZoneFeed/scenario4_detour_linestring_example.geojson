@@ -25,14 +25,9 @@
          "type": "Feature",
          "properties": {
             "core_details": {
+               "project_id": "Project 4a",
                "data_source_id": "1",
                "event_type": "work-zone",
-               "related_road_events": [
-                  {
-                     "type": "related-detour",
-                     "id": "cf1092ba-3b8d-4e91-81ef-daa4a98662e1"
-                  }
-               ],
                "road_names": [
                   "I-35"
                ],
@@ -274,13 +269,10 @@
          "type": "Feature",
          "properties": {
             "core_details": {
+               "project_id": "Detour 4a",
                "data_source_id": "1",
                "event_type": "detour",
                "related_road_events": [
-                  {
-                     "type": "related-work-zone",
-                     "id": "a15f7570-b7e6-4367-8ad9-3a462eea65dd"
-                  },
                   {
                      "type": "next-in-sequence",
                      "id": "4d151e7d-11d8-4b99-a192-51e189da0de7"
@@ -357,13 +349,10 @@
          "type": "Feature",
          "properties": {
             "core_details": {
+               "project_id": "Detour 4a",
                "data_source_id": "1",
                "event_type": "detour",
                "related_road_events": [
-                  {
-                     "type": "related-work-zone",
-                     "id": "a15f7570-b7e6-4367-8ad9-3a462eea65dd"
-                  },
                   {
                      "type": "first-in-sequence",
                      "id": "cf1092ba-3b8d-4e91-81ef-daa4a98662e1"
@@ -740,13 +729,10 @@
          "type": "Feature",
          "properties": {
             "core_details": {
+               "project_id": "Detour 4a",
                "data_source_id": "1",
                "event_type": "detour",
                "related_road_events": [
-                  {
-                     "type": "related-work-zone",
-                     "id": "a15f7570-b7e6-4367-8ad9-3a462eea65dd"
-                  },
                   {
                      "type": "first-in-sequence",
                      "id": "cf1092ba-3b8d-4e91-81ef-daa4a98662e1"
