@@ -25,13 +25,11 @@
       "type": "Feature",
       "properties": {
         "core_details": {
+          "project_id": "Project 3a",
           "data_source_id": "1",
           "event_type": "work-zone",
-          "related_road_events": [
-            {
-              "type": "related-work-zone",
-              "id": "62c5fa4b-11ee-45e6-a740-bc32d3b846e9"
-            }
+          "related_projects": [
+            "Project 3b"
           ],
           "road_names": [
             "IA 210"
@@ -105,13 +103,11 @@
       "type": "Feature",
       "properties": {
         "core_details": {
+          "project_id": "Project 3b",
           "data_source_id": "1",
           "event_type": "work-zone",
-          "related_road_events": [
-            {
-              "type": "related-work-zone",
-              "id": "a2183b6b-befa-48ac-b6b5-3ee5e8a806e9"
-            }
+          "related_projects": [
+            "Project 3a"
           ],
           "road_names": [
             "IA 210"
