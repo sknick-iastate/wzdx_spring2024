@@ -24,6 +24,7 @@
       "id": "de3de57b-33fb-40e5-a6f2-a17828f82fb9",
       "type": "Feature",
       "properties": {
+        "project_id": "Project 8a",
         "core_details": {
           "data_source_id": "1",
           "event_type": "work-zone",
@@ -86,6 +87,7 @@
       "id": "defbbd71-3f7e-4ddb-99de-86a48532ae57",
       "type": "Feature",
       "properties": {
+        "project_id": "Project 8a",
         "core_details": {
           "data_source_id": "1",
           "event_type": "work-zone",
